@@ -44,7 +44,7 @@ main {
   padding: 30px 0;
 }
 
-.weather-app-data {
+.forecast-app-data {
   display: flex;
   justify-content: space-between;
 }
